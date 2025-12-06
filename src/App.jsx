@@ -8,8 +8,9 @@ function App() {
 
   return (
     <>
-      <div style={{color:"green"}}>
+      <div style={{color:"yello"}}>
         hello world
+        <p>react is a user interface</p>
       </div>
     </>
   )
